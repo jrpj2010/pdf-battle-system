@@ -1,4 +1,3 @@
-```markdown
 # 📊 PDF読み取り精度バトル評価システム v1.0
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -97,4 +96,3 @@ MIT License（自由に使って・改造してOKです）
 
 楽しんで使ってください！  
 何か質問があれば Issues に書いてくださいね😄
-```
